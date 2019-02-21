@@ -348,6 +348,7 @@ html{
     width:218px;
     margin-top:295px;
     background:#2B5B89;
+    border:1px solid #2B5B89;
     
   }
   .pant::before{
