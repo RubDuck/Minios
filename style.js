@@ -346,7 +346,6 @@ html{
   .pant{
     height:65px;
     width:218px;
-    border:1px solid red;
     margin-top:295px;
     background:#2B5B89;
     
