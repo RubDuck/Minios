@@ -14,7 +14,7 @@
         time = 20
         break
       case 'fast':
-        time = 1
+        time = 0.2
         break
     }
   })  
